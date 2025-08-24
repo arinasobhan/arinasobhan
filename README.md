@@ -1,6 +1,5 @@
 <h1 align="center"><b>👋 Hello, everyone!</b></h1>
 
----
 
 <img width="1584" height="396" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/394b1be1-818a-4a96-abb0-d7b5e92a43cc" /><!-- Banner Section -->
 <p align="center">
