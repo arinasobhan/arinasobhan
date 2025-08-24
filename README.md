@@ -1,9 +1,13 @@
+## <p align="center">
+  ## 👋 Hello, everyone!
+</p>
+
+---
+
 <img width="1584" height="396" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/394b1be1-818a-4a96-abb0-d7b5e92a43cc" /><!-- Banner Section -->
 <p align="center">
 
 ---
-
-## 👋 Hello, everyone!
 
 I’m a **final-year Information Technology (Hons.) student at IIUM**, specializing in **Business Intelligence & Information Science**.  
 
