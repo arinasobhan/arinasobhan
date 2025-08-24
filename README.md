@@ -1,4 +1,4 @@
-<!-- Banner Section -->
+<img width="1584" height="396" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/394b1be1-818a-4a96-abb0-d7b5e92a43cc" /><!-- Banner Section -->
 <p align="center">
   <img src="YOUR_BANNER_IMAGE_LINK" alt="Banner" width="100%" />
 </p>
@@ -10,6 +10,7 @@
 I’m a **final-year Information Technology (Hons.) student at IIUM**, specializing in **Business Intelligence & Information Science**.  
 
 💡 With a strong passion for **continuous learning and entrepreneurship**, I aim to merge **technology** and **business** to create meaningful, data-driven impact.  
+
 📊 My background and hands-on experience in tools like **Power BI, SQL, and Excel** have fueled my interest in **data-driven decision-making, data visualization, and business strategy**.  
 
 🚀 My ultimate goal is to become a **Business Intelligence Analyst** or **Data-Driven Entrepreneur**, leveraging technology to solve real-world problems and support strategic business decisions.  
@@ -41,10 +42,10 @@ I’m a **final-year Information Technology (Hons.) student at IIUM**, specializ
 
 ## 📫 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/arinabtrsyia" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:arinasobhan75@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
