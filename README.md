@@ -20,10 +20,10 @@ I am a **final-year Information Technology (Hons.) student at IIUM**, specializi
 ---
 
 ## 🛠️ Skills  
-- **Data Analysis & Visualization** 📊  
-- **Business Intelligence & Strategy** 💼  
-- **Database Management & SQL** 🗄️  
-- **Innovation, Problem Solving & Critical Thinking** 🔍  
+- **Data Analysis & Visualization**   
+- **Business Intelligence & Strategy**  
+- **Database Management & SQL**  
+- **Innovation, Problem Solving & Critical Thinking**   
 
 ---
 
