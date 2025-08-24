@@ -1,6 +1,4 @@
-<p align="center">
-  ## 👋 Hello, everyone!
-</p>
+<h1 align="center"><b>👋 Hello, everyone!</b></h1>
 
 ---
 
