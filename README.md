@@ -9,11 +9,9 @@
 
 I am a **final-year Information Technology (Hons.) student at IIUM**, specializing in **Business Intelligence & Information Science**.  
 
-💡 With a strong passion for **continuous learning and entrepreneurship**, I aim to merge **technology** and **business** to create meaningful, data-driven impact.  
-
 📊 My background and hands-on experience in tools like **Power BI, SQL, Python and Excel** have fueled my interest in **data-driven decision-making, data visualization and business strategy**.  
 
-🚀 My ultimate goal is to become a **Business Intelligence Analyst** or **Data-Driven Entrepreneur**, leveraging technology to solve real-world problems and support strategic business decisions.  
+💡 My ultimate goal is to become a **Business Intelligence Analyst** or **Data-Driven Entrepreneur**, leveraging technology to solve real-world problems and support strategic business decisions.  
 
 🌱 Outside the classroom, I actively explore new tech trends, take online courses and engage with professional communities to stay updated and inspired.
 
